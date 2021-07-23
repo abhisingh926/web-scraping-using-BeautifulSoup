@@ -1,0 +1,120 @@
+,name,ratting,review,company_type,hq,old,employee
+0,TCS,4.0,(22.5k Reviews),Public,"Mumbai,Maharashtra + 190 more",53 years old,100001+ employees
+1,Accenture,4.0,(18.5k Reviews),Public,"Dublin,Dublin + 114 more",32 years old,100001+ employees
+2,ICICI Bank,4.0,(17k Reviews),Public,Mumbai + 837 more,27 years old,50001-100000 employees
+3,Cognizant,3.8,(16.6k Reviews),Private,Teaneck + 59 more,27 years old,100001+ employees
+4,HDFC Bank,4.0,(14.9k Reviews),Public,"Mumbai,Maharashtra + 885 more",27 years old,100001+ employees
+5,Wipro,3.8,(12.8k Reviews),Public,Bangalore + 197 more,76 years old,100001+ employees
+6,Capgemini,3.7,(12.6k Reviews),Public,Paris + 53 more,54 years old,100001+ employees
+7,HCL Technologies,3.8,(12.1k Reviews),Public,"Noida,Uttar Pradesh + 123 more",28 years old,100001+ employees
+8,Tech Mahindra,3.6,(11.6k Reviews),Public,"Pune,Maharashtra + 111 more",35 years old,100001+ employees
+9,Infosys,3.9,(11.5k Reviews),Public,Bangalore + 88 more,40 years old,100001+ employees
+10,Vodafone Idea,4.2,(10.9k Reviews),Public,Mumbai + 482 more,3 years old,10001-50000 employees
+11,Genpact,4.0,(10.8k Reviews),Private,New York + 40 more,24 years old,50001-100000 employees
+12,Axis Bank,3.8,(10.5k Reviews),Public,Mumbai + 817 more,28 years old,50001-100000 employees
+13,L&T,4.1,(10.5k Reviews),Public,Mumbai + 407 more,83 years old,100001+ employees
+14,Reliance jio,4.0,(10.1k Reviews),Public,Navi Mumbai + 729 more,11 years old,10001-50000 employees
+15,IBM,4.1,(10k Reviews),Public,New York + 91 more,110 years old,100001+ employees
+16,Concentrix Corpora...,4.1,(9.7k Reviews),Public,"Fremont,California + 48 more",38 years old,100001+ employees
+17,HDB Financial Serv...,4.0,(8.6k Reviews),Private,Ahmedabad + 582 more,14 years old,100001+ employees
+18,Amazon,4.2,(8.2k Reviews),Private,"Seattle,Washington + 235 more",17 years old,100001+ employees
+19,Kotak Mahindra Ban...,3.8,(6.9k Reviews),Public,"Mumbai,Maharashtra + 394 more",18 years old,10001-50000 employees
+20,Tata Motors,4.1,(6.8k Reviews),Public,"Pune,Maharashtra + 325 more",76 years old,50001-100000 employees
+21,Bharti Airtel,4.1,(6.6k Reviews),Public,"Gurgaon/Gurugram,Haryana + 386 more",26 years old,10001-50000 employees
+22,Teleperformance,3.6,(6.2k Reviews),Private,Paris + 80 more,43 years old,100001+ employees
+23,Reliance Industrie...,4.0,(6k Reviews),Public,"Navi Mumbai,Maharashtra + 283 more",48 years old,100001+ employees
+24,Bajaj Finserv,4.1,(4.8k Reviews),Public,Pune + 546 more,14 years old,10001-50000 employees
+25,IndusInd Bank,3.7,(4.7k Reviews),Public,"Gurgaon/Gurugram,Haryana + 429 more",27 years old,10001-50000 employees
+26,Mahindra & Mahindr...,4.2,(4.6k Reviews),Public,"Mumbai,Maharashtra + 309 more",14 years old,10001-50000 employees
+27,Hinduja Global Sol...,3.9,(4.6k Reviews),Public,Bangalore + 60 more,21 years old,10001-50000 employees
+28,Deloitte,3.9,(4.5k Reviews),Private,"New York,New York + 67 more",176 years old,100001+ employees
+29,Samsung,4.2,(4.4k Reviews),Private,Seoul + 362 more,83 years old,100001+ employees
+30,Indian Army,4.7,(4.3k Reviews),"New Delhi,Delhi + 241 more",126 years old,100001+ employees,
+31,WNS,3.7,(4.1k Reviews),Private,"Mumbai,Maharashtra + 16 more",25 years old,10001-50000 employees
+32,Maruti Suzuki,4.2,(4.1k Reviews),Public,"New Delhi,Delhi + 313 more",38 years old,10001-50000 employees
+33,DXC Technology,3.5,(4k Reviews),Public,"Tysons,Virginia + 42 more",4 years old,10001-50000 employees
+34,Reliance Retail,4.2,(3.9k Reviews),Private,"Navi Mumbai,Maharashtra + 307 more",15 years old,100001+ employees
+35,Ericsson,4.2,(3.7k Reviews),Private,Stockholm + 117 more,145 years old,100001+ employees
+36,Infosys BPM,4.0,(3.6k Reviews),"Bangalore/Bengaluru,Karnataka + 29 more",19 years old,10001-50000 employees,
+37,HSBC,4.1,(3.5k Reviews),Private,London + 44 more,156 years old,100001+ employees
+38,Startek,3.6,(3.5k Reviews),Greenwood Village + 40 more,34 years old,10001-50000 employees,
+39,Jana Small Finance...,3.9,(3.4k Reviews),Public,"Bangalore/Bengaluru,Karnataka + 257 more",15 years old,10001-50000 employees
+40,Dr. Reddy's,4.2,(3.4k Reviews),Public,"Hyderabad/Secunderabad,Telangana + 113 more",37 years old,10001-50000 employees
+41,Cipla Pharmaceutic...,3.9,(3.4k Reviews),Public,Mumbai + 160 more,86 years old,10001-50000 employees
+42,ICICI Prudential L...,4.2,(3.3k Reviews),Public,Mumbai + 343 more,20 years old,10001-50000 employees
+43,Sutherland Global ...,3.8,(3.3k Reviews),Private,Pittsford + 25 more,35 years old,10001-50000 employees
+44,Ernst & Young,3.7,(3.3k Reviews),Private,London + 49 more,32 years old,100001+ employees
+45,Conneqt,3.8,(3.2k Reviews),"Hyderabad/Secunderabad,Telangana + 120 more",17 years old,10001-50000 employees,
+46,Intelenet Global S...,3.7,(3.1k Reviews),Private,"Mumbai,Maharashtra + 54 more",21 years old,50001-100000 employees
+47,Bajaj Allianz Life...,4.1,(3.1k Reviews),Private,Pune + 355 more,20 years old,10001-50000 employees
+48,Lupin,4.2,(3.1k Reviews),Public,Mumbai + 111 more,53 years old,10001-50000 employees
+49,Home Credit Financ...,4.1,(3k Reviews),Private,Gurugram + 86 more,9 years old,10001-50000 employees
+50,Mphasis,3.8,(3k Reviews),Public,"Bangalore/Bengaluru,Karnataka + 30 more",21 years old,10001-50000 employees
+51,Yes Bank,4.0,(3k Reviews),Public,Mumbai + 274 more,17 years old,10001-50000 employees
+52,Asian Paints,4.3,(2.9k Reviews),Public,"Mumbai,Maharashtra + 243 more",79 years old,5001-10000 employees
+53,IDFC FIRST Bank,3.8,(2.9k Reviews),Public,Mumbai + 224 more,6 years old,10001-50000 employees
+54,Hewlett-Packard,4.3,(2.9k Reviews),Private,"Palo Alto,California + 71 more",82 years old,100001+ employees
+55,HDFC LIFE,4.0,(2.9k Reviews),Mumbai + 327 more,21 years old,10001-50000 employees,
+56,Reliance Communica...,4.0,(2.9k Reviews),Public,Navi Mumbai + 334 more,19 years old,1001-5000 employees
+57,Future Group,4.2,(2.7k Reviews),Private,"Mumbai,Maharashtra + 177 more",8 years old,50001-100000 employees
+58,Zydus Cadila,4.1,(2.7k Reviews),Public,"Ahmedabad, India + 118 more",69 years old,10001-50000 employees
+59,OPPO,4.1,(2.7k Reviews),Public,"Dongguan,Guangdong + 265 more",17 years old,10001-50000 employees
+60,NTT DATA,3.8,(2.6k Reviews),Private,"Chiyoda City,Tokyo + 27 more",33 years old,100001+ employees
+61,Hindustan Unilever...,4.3,(2.6k Reviews),Public,London + 267 more,92 years old,10001-50000 employees
+62,Mahindra & Mahindr...,4.3,(2.5k Reviews),Public,"Mumbai,Maharashtra + 450 more",30 years old,10001-50000 employees
+63,Shapoorji Pallonji,4.2,(2.5k Reviews),Private,"Mumbai,Maharashtra + 116 more",156 years old,50001-100000 employees
+64,Ujjivan Small Fina...,4.1,(2.5k Reviews),Public,Bengaluru + 296 more,4 years old,10001-50000 employees
+65,Shriram Transport ...,4.2,(2.5k Reviews),Public,"Mumbai,Maharashtra + 495 more",42 years old,10001-50000 employees
+66,Apollo Hospitals,4.1,(2.5k Reviews),Public,Chennai + 128 more,38 years old,50001-100000 employees
+67,ITC,4.1,(2.5k Reviews),Public,"Kolkata,West Bengal + 164 more",46 years old,10001-50000 employees
+68,Ashok Leyland,4.2,(2.5k Reviews),Public,"Chennai,Tamil Nadu + 151 more",73 years old,10001-50000 employees
+69,Sun Pharmaceutical...,4.0,(2.5k Reviews),Public,Mumbai + 116 more,38 years old,10001-50000 employees
+70,PayTM,3.8,(2.5k Reviews),Private,"Noida,Uttar Pradesh + 190 more",11 years old,1001-5000 employees
+71,EXL Service,3.8,(2.5k Reviews),Private,"New York, USA + 22 more",22 years old,10001-50000 employees
+72,IIFL,3.8,(2.4k Reviews),Public,Mumbai + 333 more,26 years old,10001-50000 employees
+73,UltraTech Cement,4.3,(2.4k Reviews),Public,"Mumbai,Maharashtra + 248 more",38 years old,10001-50000 employees
+74,Nokia,4.3,(2.4k Reviews),Private,Espoo + 157 more,156 years old,50001-100000 employees
+75,Wipro BPS,3.8,(2.4k Reviews),Bengaluru + 27 more,21 years old,10001-50000 employees,
+76,Vivo,4.1,(2.4k Reviews),Private,"Dongguan,Guangdong + 264 more",12 years old,10001-50000 employees
+77,Oyo Rooms,3.5,(2.3k Reviews),Private,"Gurgaon/Gurugram,Haryana + 93 more",8 years old,10001-50000 employees
+78,Udaan,4.2,(2.3k Reviews),Private,Bengaluru + 231 more,5 years old,5001-10000 employees
+79,Aurobindo Pharma,4.1,(2.3k Reviews),Public,"Hyderabad/Secunderabad,Telangana + 32 more",35 years old,10001-50000 employees
+80,Hyundai Motor,4.3,(2.3k Reviews),Private,Seoul + 182 more,54 years old,100001+ employees
+81,Siemens,4.2,(2.2k Reviews),Public,"Munich,Bavaria + 81 more",174 years old,5001-10000 employees
+82,Larsen & Toubro In...,3.8,(2.2k Reviews),Public,Mumbai + 63 more,25 years old,10001-50000 employees
+83,Wipro Consumer Ca...,3.8,(2.2k Reviews),Private,"Bangalore/Bengaluru,Karnataka + 56 more",76 years old,5001-10000 employees
+84,Axis Direct,4.0,(2.1k Reviews),Private,"Mumbai,Maharashtra + 252 more",16 years old,10001-50000 employees
+85,TVS Motor,4.2,(2.1k Reviews),Public,"Chennai,Tamil Nadu + 189 more",42 years old,5001-10000 employees
+86,eClerx,3.6,(2.1k Reviews),Public,Mumbai + 14 more,21 years old,100001+ employees
+87,PwC,3.6,(2.1k Reviews),London + 48 more,23 years old,100001+ employees,
+88,Max Life Insurance,4.2,(2.1k Reviews),"Gurgaon/Gurugram,Haryana + 219 more",21 years old,10001-50000 employees,
+89,JP Morgan Chase,4.1,(2.1k Reviews),Private,"New York,New York + 15 more",99 years old,100001+ employees
+90,Hero MotoCorp,4.2,(2k Reviews),Public,New Delhi + 206 more,37 years old,5001-10000 employees
+91,Atos Syntel,3.6,(2k Reviews),Private,"Troy,Michigan + 14 more",41 years old,100001+ employees
+92,Cyient,3.6,(2k Reviews),Public,"Hyderabad/Secunderabad,Telangana + 23 more",30 years old,10001-50000 employees
+93,Dominos Pizza,4.2,(2k Reviews),Public,"Ypsilanti,Michigan + 169 more",61 years old,10001-50000 employees
+94,JustDial,3.7,(2k Reviews),Public,"Mumbai,Maharashtra + 102 more",25 years old,10001-50000 employees
+95,JLL,4.2,(2k Reviews),Private,"Mumbai,Maharashtra + 50 more",24 years old,50001-100000 employees
+96,KPMG,3.7,(2k Reviews),"Amstelveen,North Holland + 41 more",34 years old,100001+ employees,
+97,Bosch,4.2,(2k Reviews),Public,Sttugart + 69 more,135 years old,100001+ employees
+98,Aditya Birla Fashi...,4.3,(1.9k Reviews),Private,Mumbai + 158 more,6 years old,10001-50000 employees
+99,UnitedHealth,4.2,(1.9k Reviews),Private,"Minneapolis,Minnesota + 11 more",19 years old,100001+ employees
+100,Tata Projects,4.2,(1.9k Reviews),Public,"Mumbai,Maharashtra + 155 more",42 years old,1001-5000 employees
+101,Oracle,3.7,(1.9k Reviews),Public,"Redwood City,California + 24 more",44 years old,100001+ employees
+102,Viatris,4.2,(1.9k Reviews),Pittsburgh + 52 more,1 years old,10001-50000 employees,
+103,Fidelity National ...,4.0,(1.9k Reviews),Private,"Jacksonville,Florida + 24 more",24 years old,50001-100000 employees
+104,First Source,3.9,(1.9k Reviews),Public,"Mumbai,Maharashtra + 35 more",20 years old,10001-50000 employees
+105,Bandhan Bank,3.9,(1.8k Reviews),Public,"Kolkata,West Bengal + 344 more",20 years old,10001-50000 employees
+106,Muthoot Group,3.8,(1.8k Reviews),Public,"Kochi/Cochin,Kerala + 293 more",134 years old,10001-50000 employees
+107,JSW Steel,3.8,(1.8k Reviews),Public,"Mumbai,Maharashtra + 64 more",39 years old,10001-50000 employees
+108,Godrej & Boyce Man...,4.0,(1.8k Reviews),Private,Mumbai + 98 more,124 years old,10001-50000 employees
+109,iEnergizer,3.4,(1.8k Reviews),Private,"Noida,Uttar Pradesh + 13 more",21 years old,10001-50000 employees
+110,Fullerton India,4.2,(1.8k Reviews),Private,Mumbai + 315 more,14 years old,10001-50000 employees
+111,Dell,4.1,(1.8k Reviews),Private,"Round Rock,Texas + 63 more",37 years old,100001+ employees
+112,Manappuram Finance,3.9,(1.8k Reviews),Public,"Thrissur/Trichur,Kerala + 281 more",72 years old,10001-50000 employees
+113,Simplex Infrastruc...,3.7,(1.8k Reviews),Public,New Delhi + 103 more,97 years old,1001-5000 employees
+114,Omega Healthcare,3.7,(1.7k Reviews),Private,Florida + 17 more,17 years old,10001-50000 employees
+115,Mindtree,4.0,(1.7k Reviews),Public,Bangalore + 17 more,22 years old,10001-50000 employees
+116,AU Small Finance B...,3.9,(1.7k Reviews),Private,"Jaipur,Rajasthan + 199 more",25 years old,10001-50000 employees
+117,TATA Steel,4.1,(1.7k Reviews),Public,"Mumbai,Maharashtra + 87 more",114 years old,10001-50000 employees
+118,Wipro Enterprises ...,3.8,(1.7k Reviews),Bangalore + 50 more,76 years old,100001+ employees,
